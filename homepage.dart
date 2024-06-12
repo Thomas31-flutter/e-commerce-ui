@@ -111,7 +111,7 @@ class _HomePageState extends State<HomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text(
-                  'Welcome',
+                  'Welcome ',
                   style: TextStyle(fontSize: 40),
                 ),
                 Text(
