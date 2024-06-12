@@ -16,7 +16,7 @@ class MainApp extends StatelessWidget {
       create: (context) => MyappCubit(),
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        home: HomePage(),
+        home: LoginaPage(),
       ),
     );
   }
