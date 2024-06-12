@@ -112,11 +112,11 @@ class _HomePageState extends State<HomePage> {
               children: [
                 Text(
                   'Welcome ',
-                  style: TextStyle(fontSize: 40),
+                  style: TextStyle(fontSize: 25),
                 ),
                 Text(
                   username,
-                  style: TextStyle(color: Colors.blue, fontSize: 40),
+                  style: TextStyle(color: Colors.blue, fontSize: 25),
                 ),
               ],
             ),
